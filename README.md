@@ -1,3 +1,5 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > CoE and OPM
+
 # CoE and OPM - Acquisitions
 
 ## Individual RFIs
