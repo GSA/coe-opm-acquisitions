@@ -4,7 +4,9 @@
 
 ## Individual RFIs
 
-We are currently in the market research phase in various workstreams. When we are ready, we intend to post links to RFIs in this section. Please keep your eye out for updates!
+These links lead to the repositories for each individual procurement. They are listed in the same order as they are listed in the press release, below.
+
+* IT Infrastructure Optimization: [Mainframe D/R Plan Implementation](https://github.com/GSA/coe-opm-mainframe-dr-plan)
 
 ## GSA, OPM Partner in Centers of Excellence Initiative
 
