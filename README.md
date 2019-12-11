@@ -8,9 +8,9 @@
 
 # CoE and OPM - Acquisitions
 
-## Current RFIs
+## Current RFQs
 
-These links lead to the repositories for each individual procurement that has an active RFI.
+These links lead to the repositories for each individual procurement that has an active RFQ.
 
 * IT Infrastructure Optimization: [Calc Replacement Implementation](https://github.com/GSA/coe-opm-calc-replacement)
 * IT Infrastructure Optimization: [App Replacement Implementation](https://github.com/GSA/coe-opm-app-replacement)
