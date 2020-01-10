@@ -16,13 +16,12 @@ These links lead to the repositories for each individual procurement that has be
 
 ## Current RFQs
 
-These links lead to the repositories for each individual procurement that has an active RFQ.
-
-* IT Infrastructure Optimization: [Calculation Service](https://github.com/GSA/coe-opm-calculation-service)
-* IT Infrastructure Optimization: [App Replacement Implementation](https://github.com/GSA/coe-opm-app-replacement)
+There are currently no active RFQs.
 
 ## Previous RFQs
 
 These links lead to the repositories for each individual procurement that had an issued RFQ.
 
 * IT Infrastructure Optimization: [Mainframe D/R Plan Implementation](https://github.com/GSA/coe-opm-mainframe-dr-plan)
+* IT Infrastructure Optimization: [Calculation Service](https://github.com/GSA/coe-opm-calculation-service)
+* IT Infrastructure Optimization: [App Replacement Implementation](https://github.com/GSA/coe-opm-app-replacement)
